@@ -1,0 +1,2 @@
+# coursera_bitcoin
+为了系统的学习下bitcoin原理，报名参加了coursera中bitcoin课程，为了分享体会和监督自己，特开此贴．
